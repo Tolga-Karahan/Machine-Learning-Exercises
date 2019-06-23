@@ -1,0 +1,5 @@
+number-numbermsg[number].txt : example 3-1msg1.txt (this are non spam emails)
+
+OR
+
+spmsg[Number].txt : example spmsga162.txt (these files are of spam emails).
